@@ -1,6 +1,6 @@
-# fastStats
+# FastStats
 
-fastStats is a stats and metrics platform by [@NonSwag](https://github.com/NonSwag) and [@LuggaPugga](https://github.com/LuggaPugga).
+FastStats is a stats and metrics collection platform made for developers
 
 **Quickstart:**
 - Learn more on [faststats.org](https://faststats.org)
