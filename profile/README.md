@@ -4,6 +4,7 @@ FastStats is a stats and metrics collection platform made for developers
 
 **Quickstart:**
 - Learn more on [faststats.dev](https://faststats.dev)
+- Check out our status page at [status.faststats.dev](https://status.faststats.dev)
 - Support us by donating through [GitHub Sponsors](https://github.com/sponsors/NonSwag)
 - Join our community on Discord
 
